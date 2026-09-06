@@ -30,5 +30,5 @@ Multiple BR_DedicatedServerPlugin files will NOT work at the same time!. Somethi
  - #### Spoof
      - Your server shows up in the regular server list
      - Server has the dedicated server icon
-     - You do not need to port forward
      - Enables UE Console (F2)
+     - You do not need to port forward
