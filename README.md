@@ -21,7 +21,7 @@ Multiple BR_DedicatedServerPlugin files will NOT work at the same time!. Somethi
      - Enables the UE console (F2)
      - Enables & Redirects UE Console output
      - Requires forwarded ports
- - #### Headless
+ - #### Headless (Meant to be used with a headless client ONLY)
      - Registers your server as dedicated
      - Attaches to an existing console
      - Enables & Redirects UE Console output
