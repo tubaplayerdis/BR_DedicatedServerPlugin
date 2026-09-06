@@ -9,9 +9,12 @@ To have your server show up, ports `7777` and `27015` need to be open and forwar
 
 ## INSTALL
 BR_DedicatedServerPlugin works exclusively with [brickworks](https://discordapp.com/channels/310614354112413698/1544753869790384128)
-Download and install brickworks then add the BR_DedicatedServerPlugin to the `brickworks` folder.
 
-Multiple BR_DedicatedServerPlugin files will NOT work at the same time!. Something will break.
+ - Download and Install [brickworks](https://discordapp.com/channels/310614354112413698/1544753869790384128) If not already done
+ - Download your wanted plugin type
+ - Place in `steamapps/common/BrickRigs/brickworks` directory.
+
+Multiple `BR_DedicatedServerPlugin` files will **NOT** work at the same time!. Something will break.
 
 ### Plugin Types
  - #### Dedicated
