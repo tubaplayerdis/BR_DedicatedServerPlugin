@@ -5,6 +5,8 @@ Downloads for the BR_DedicatedServerPlugin
 
 This mod is authenticated and **will not work** unless I authenticate you.
 
+#### This mod uses [brickworks](https://discordapp.com/channels/310614354112413698/1544753869790384128) for loading
+
 ### Plugin Types
  - #### Dedicated
      - Registers your server as dedicated
@@ -20,7 +22,7 @@ This mod is authenticated and **will not work** unless I authenticate you.
      - Server has the dedicated server icon
      - Enables UE Console (F2)
 
-BR_DedicatedServerPlugin works exclusively with [brickworks]((https://discordapp.com/channels/310614354112413698/1544753869790384128))
+BR_DedicatedServerPlugin works exclusively with [brickworks](https://discordapp.com/channels/310614354112413698/1544753869790384128)
 Download and install brickworks then add the BR_DedicatedServerPlugin to the `brickworks` folder.
 
 #### Multiple BR_DedicatedServerPlugin files will NOT work at the same time!. Something will break.
