@@ -1,6 +1,10 @@
 # BR_DedicatedServerPlugin
 Downloads for the BR_DedicatedServerPlugin
 
+#### Contact American_Stig (tbgit) @Discord for access to this mod.
+
+This mod is authenticated and will not work unless I authenticate you.
+
 ### Plugin Types
  - #### Dedicated
      - Registers your server as dedicated
