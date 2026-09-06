@@ -1,10 +1,8 @@
 # BR_DedicatedServerPlugin
 Downloads for the BR_DedicatedServerPlugin
 
-## READ THESE
- - This mod requires authentication beforehand. It will not work otherwise
- - Contant American_Stig (tbgit) @Discord for access to this mod.
- - This mod uses [brickworks](https://discordapp.com/channels/310614354112413698/1544753869790384128) for loading
+## BRICKWORKS
+ - This mod uses [brickworks](https://discordapp.com/channels/310614354112413698/1544753869790384128) for loading. See install directions
 
 ## SETUP (Dedicated & Headless Only)
 To have your server show up, ports `7777` and `27015` need to be open and forwarded on your router to your machine.
